@@ -9,3 +9,6 @@ To get the app running
   <li>npm start</li>
   <li>navigate to localhost:3000 on browser</li>
 </ul>
+
+
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Mountain View">
