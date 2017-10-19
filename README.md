@@ -19,4 +19,11 @@ To get the app running
 </ul>
 
 
-<imgs  src="https://angular.io/assets/images/logos/angular/angular.svg"  width="500" height="377" alt="Mountain View">
+<imgs  src="https://angular.io/assets/images/logos/angular/angular.svg"  width="500" height="377" >
+
+<footer>
+  <p>Author: Sesha Sai Srivatsav Kuchibhotla</p>
+  <p>Contact information: <a href="mailto:seshasaisrivatsav@gmail.com">
+  seshasaisrivatsav@gmail.com</a>.</p>
+  <p>Website: seshasaisrivatsav@gmail.com<p>
+</footer>
