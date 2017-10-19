@@ -1,7 +1,11 @@
 ## Angular 4 Seed Project
 
-THIS PROJECT HAS BEEN MOVED TO A NEW REPOSITORY.
+This is a sample Angular 4 seed project created without using Angular CLI
 
-Please checkout the new repository here, where new updates and developments are currently in-progress: [Tynarus Angular Seed](https://github.com/Tynarus/angular-seed)
+To get the app running
 
-(It's still me, just under a different username!)
+<ul style="list-style-type:disc">
+  <li>npm install</li>
+  <li>npm start</li>
+  <li>navigate to localhost:3000 on browser</li>
+</ul>  
