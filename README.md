@@ -19,7 +19,7 @@ To get the app running
 </ul>
 
 
-<imgs  src="https://angular.io/assets/images/logos/angular/angular.svg"  width="500" height="377" >
+<img src="https://angular.io/assets/images/logos/angular/angular.svg"  width="500" height="377">
 
 <div class="container">
 <footer>
