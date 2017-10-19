@@ -7,15 +7,13 @@ The drawback is, you have to update the packages in the package.json file.
 To get the app running
 
  
-
 <ul style="list-style-type:disc">
   <li>
- 
-    npm install
- 
-  
-  </li>
-  <li>npm start</li>
+  npm install
+ </li>
+  <li>
+ npm start
+</li>
   <li>navigate to localhost:3000 on browser</li>
 </ul>
 
