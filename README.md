@@ -10,9 +10,9 @@ To get the app running
 
 <ul style="list-style-type:disc">
   <li>
-    ```
+ 
     npm install
-    ```
+ 
   
   </li>
   <li>npm start</li>
