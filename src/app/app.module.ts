@@ -6,7 +6,7 @@ import { HttpModule } from "@angular/http";
 
 import { ROUTING } from "./app.routing";
 
-import { HomeComponent } from "./route/home/home.component";
+import { HomeComponent } from "./components/home/home.component";
 
 @NgModule({
     imports: [
